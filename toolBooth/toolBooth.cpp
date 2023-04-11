@@ -4,6 +4,7 @@ using namespace std;
 
 const double TOLL = 0.50;
 const char ESC = 27;
+
 class toolBooth{
 private:
     unsigned int total_number_of_cars;
